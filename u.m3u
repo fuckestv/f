@@ -2,6 +2,87 @@
 
 
 
+
+#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PRO",Tsports📺
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="http://172.16.29.28/images/TSports.jpg" group-title="PRO",T SPORTS📺
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-name="A SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="PRO",A SPORTS📺
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="PRO",STAR SPORTS 2📺
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT" tvg-logo="http://172.16.29.28/images/starsportsselect1.png" group-title="PRO",STAR SPORTS SELECT📺
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png" group-title="PRO",STAR SPORTS SELECT 2📺
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS " tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="PRO",STAR SPORTS📺
+http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="PRO",STAR SPORTS 1📺
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/starsports1.png" group-title="PRO",STAR SPORTS 1📺
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="http://172.16.29.28/images/sony-ten-2.png" group-title="PRO",SONY TEN 2📺
+http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 tvg-name="EUROSPORTS" tvg-logo="http://172.16.29.28/images/eurosport.png" group-title="PRO",EUROSPORTS📺
+http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="http://172.16.29.28/images/sony-ten-3.png" group-title="PRO",SONY TEN 3📺
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="PRO",DD SPORTS📺
+http://172.16.29.2:8090/hls/ddsports.m3u8
+#EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="PRO",WORLD FREE SPORTS📺
+http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
+#EXTINF:-1,group-title="PRO",tsports hd📺
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1,group-title="PRO",ptv sports📺
+http://172.16.29.3:8090/hls/ptvsportshd.m3u8
+
+
+
+
+
+#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="PRO",MY TV HD
+http://116.204.149.16/mytv/index.m3u8
+#EXTINF:-1 group-title="PRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
+http://116.204.149.16/maasranga/index.m3u8
+#EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="PRO",SATV
+http://116.204.149.16/satv/index.m3u8
+#EXTINF:-1,group-title="PRO",BANGLA TV HD
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1,group-title="PRO",Global TV
+http://116.204.149.16/globaltv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="PRO", DISCOVERY বাংলা
+http://103.159.180.34:5001/live/3428.m3u8
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="PRO",STAR JALSHA📺
+
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="PRO",ZEE BANGLA📺
+http://103.159.180.34:5001/live/625.m3u8
+#EXTINF:-1,group-title="PRO",Colors Bangla
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="PRO",Colors Bangla Cinema
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQ2KPjTwTMWxRwfFfiomQajZdGxyjnVDkEzXFw_aTiHOocaB5B-rqIxc&s=10" group-title="PRO",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://172.16.29.28/images/sonyaath.png" group-title="PRO",SONY AATH📺
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="PRO",Jalsha Movies HD (1080p)
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-name="SONY MAX" tvg-logo="http://172.16.29.28/images/sonymax.png" group-title="PRO",SONY MAX📺
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="http://172.16.29.28/images/star-movies-hd.jpg" group-title="PRO",STAR MOVIES📺
+http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.28/images/sangeetbangla.png" group-title="PRO",SANGEET BANGLA📺
+http://172.16.29.2:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1,group-title="PRO",Bangla Jago📺
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1,group-title="PRO",Nandan📺
+http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
+#EXTINF:-1,group-title="PRO",YRF Music📺
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Jamuna TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" tvg-chno="3" group-title="News",Jamuna TV
