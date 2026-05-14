@@ -53,8 +53,7 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://172.16.29.28/images/sonyaath.png" group-title="PRO",SONY AATH📺
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="PRO",Jalsha Movies HD (1080p)
-http://103.229.254.25:7001/play/a0dt/index.m3u8
+
 #EXTINF:-1 tvg-name="SONY MAX" tvg-logo="http://172.16.29.28/images/sonymax.png" group-title="PRO",SONY MAX📺
 http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="http://172.16.29.28/images/star-movies-hd.jpg" group-title="PRO",STAR MOVIES📺
@@ -65,8 +64,7 @@ http://172.16.29.2:8090/hls/SangeetBangla.m3u8
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,group-title="PRO",Nandan📺
 http://198.144.149.206:8080/IPWORLD/NANDAN/index.fmp4.m3u8
-#EXTINF:-1,group-title="PRO",YRF Music📺
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="News",Somoy TV
