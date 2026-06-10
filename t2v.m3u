@@ -77,10 +77,6 @@ https://tvsen5.aynaott.com/skynews/index.m3u8?e=1779283779&u=78be6644-0a65-48ec-
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
 #EXTINF:-1,1. Willow TV
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,2. T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1,3. Goal TV HD
 https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
 
