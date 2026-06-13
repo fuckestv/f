@@ -2,6 +2,24 @@
 
 
 
+
+#EXTINF:-1,⚽
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1,⚽⚽⚽
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1,⚽⚽
+https://st02-1.iptv.joj.sk/ac/3442b14246831abd7c29c9b5d7682987/1781377889314/b4cd4952d7c21acf776c6125a8a547f23/dna-110-tv-pc/hls/500v259.m3u8
+#EXTINF:-1,⚽⚽
+https://wp9xqedt.fubo18.com/dsports/mono.m3u8?token=90898077beab00615490aabf211a6749a9d115ad-c-1781393637-1781375637
+
+#EXTINF:-1,⚽⚽⚽⚽⚽
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+
+
+
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 with Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",Bioscope Plus 🇧🇩
