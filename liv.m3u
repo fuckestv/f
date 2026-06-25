@@ -83,23 +83,16 @@ http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 8
 http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/162694.ts
 
-#EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 9
-http://starhub.pro//live/farhat-3379/67897-913379/744517.ts
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Bangla live
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
-#EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live ban
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 
 
 
 
-
-#EXTM3U
-
-# ─────────── Sports───────────
+─────────── Sports───────────
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus English 🏆
