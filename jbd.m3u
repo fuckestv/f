@@ -5,7 +5,11 @@
 
 
 
-
+#EXTM3U
+#EXTINF:-1,Shikhor TV
+#EXTVLCOPT:http-referrer=https://hridoytv.pages.dev
+#EXTVLCOPT:http-origin=https://hridoytv.pages.dev
+https://jbd.hossainhridoy.workers.dev/shikhortv.m3u8
 
 #EXTM3U
 
