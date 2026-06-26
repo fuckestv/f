@@ -7,7 +7,11 @@
 
 
 
+#EXTM3U
 
+#EXTINF:-1 tvg-id="ShikhorTV" tvg-name="Shikhor TV" group-title="Bangla",Shikhor TV
+#EXTHTTP:{"Referer":"https://hridoytv.pages.dev","Origin":"https://hridoytv.pages.dev"}
+https://jbd.hossainhridoy.workers.dev/shikhortv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png",JonmoBhumi TV
