@@ -145,7 +145,18 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
+#EXTINF:-1, tvg-logo=" ", SNB CINEMA
+http://103.182.83.246/hls/snbcinema.m3u8
 
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
+http://103.175.73.12:8080/live/197/197_0.m3u8
+
+
+#EXTINF:-1 tvg-id="AamarBangla.in@SD",Aamar Bangla (720p)
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x71442" group-title="2. JAGOBD" ,Amar Bangla Digital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
 
 
