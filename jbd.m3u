@@ -6,18 +6,6 @@
 #EXTINF:-1 tvg-id="141" group-title="PRO" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1,Shikhor TV
-#EXTVLCOPT:http-referrer=https://hridoytv.pages.dev
-#EXTVLCOPT:http-origin=https://hridoytv.pages.dev
-https://jbd.hossainhridoy.workers.dev/shikhortv.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ShikhorTV" tvg-name="Shikhor TV" group-title="Bangla",Shikhor TV
-#EXTHTTP:{"Referer":"https://hridoytv.pages.dev","Origin":"https://hridoytv.pages.dev"}
-https://jbd.hossainhridoy.workers.dev/shikhortv.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
