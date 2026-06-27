@@ -47,7 +47,15 @@ http://live.balajibroadband.com:3500/live/1393.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 http://live.balajibroadband.com:3500/live/762.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH",Star Movies HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+http://103.157.248.140:8000/play/a01t/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+http://103.157.248.140:8000/play/a01s/index.m3u8
 
 
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Bengali",Zee Bangla Sonar
