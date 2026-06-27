@@ -13,7 +13,9 @@
 https://xfireflix.my.id/mac.php?id=908682.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
 https://xfireflix.my.id/mac.php?id=908654.m3u8
-
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="KOLKATA",Colors Bangla Cinema
+http://live.balajibroadband.com:3500/live/1657.m3u8
+http://66.102.126.10:8000/play/a015/index.m3u8
 
 
 
