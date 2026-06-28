@@ -21,34 +21,12 @@
 
 #EXTINF:-1,দেশে বিদেশে
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b3564688d9964a0da7cee6174fda39ef" group-title="News",Star News
-
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian Bangla",Sony Aath
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
-#EXTINF:-1 tvg-id="ColorsBangla4K" tvg-name="Colors Bangla 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest?cb=20240314081816" group-title="Bangla",Colors Bangla 4K
-http://starhub.pro/live/Anthony2/Anthony123/98882.ts
-
-#EXTINF:-1 tvg-id="StarJalsa4K" tvg-name="Star Jalsa 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624" group-title="Bangla",Star Jalsa 4K
-http://starhub.pro/live/Anthony2/Anthony123/198.ts
-
-#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="" group-title="Sports",T Sports HD
-http://starhub.pro/live/Anthony2/Anthony123/113069.ts
-
-#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="" group-title="Sports",PTV 4K
-http://starhub.pro/live/Anthony2/Anthony123/61674.ts
-
-#EXTINF:-1 tvg-id="StarSports24K" tvg-name="Star Sports 2 4K" tvg-logo="" group-title="Sports",Star Sports select 2 4K
-http://starhub.pro/live/Anthony2/Anthony123/148801.ts
-
-#EXTINF:-1 tvg-id="FoxCricket5014K" tvg-name="Fox Cricket 501 4K" tvg-logo="" group-title="Sports",Fox Cricket 501 4K
-http://starhub.pro/live/Anthony2/Anthony123/1856.ts
-
 #EXTINF:-1,Nick
 http://202.70.146.135:8000/play/a04c/index.m3u8
-
-
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
