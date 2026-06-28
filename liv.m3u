@@ -35,7 +35,8 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 #EXTINF:-1 tvg-id="Unite Sports FIFA" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Unite Sports FIFA Hindi
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", T Sports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
@@ -127,17 +128,8 @@ http://znty.dyndns.org:5010/hls/eleven3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 4 HD
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports  - 🇫🇷 France
-http://145.239.5.177/559/mpegts
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports  🇫🇷 France
 http://145.239.5.177:80/559/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
 http://177.10.184.60:8002/play/a013/index.m3u8
