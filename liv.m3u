@@ -134,46 +134,17 @@ http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
 http://177.10.184.60:8002/play/a013/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN B 1080 🇲🇽 Mexico
-https://streaming.alwaysdata.net/tudn.php
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
