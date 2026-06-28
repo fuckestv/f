@@ -235,29 +235,8 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wZNZDQmr2Zct4_ETjKLkrcTKuN81wYEK527pxhoun-hMXFDTVYQYXhCoYZG8TgOSBp0s_NC5uw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 2
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-
-
-
-
 #EXTINF:1 tvg-name="HUM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/HUMTV.jpg?raw=true" group-title="PRO",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Bangla Movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Movie.jpg?raw=true" group-title="PRO",Bangla Movies
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1 tvg-name="Dubbed movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" group-title="PRO",Dubbed movies
-https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1 tvg-name="ILM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ILM%20TV.jpg?raw=true" group-title="PRO",ILM TV
-https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1 tvg-name="Batul The great" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Batul%20The%20great.jpg?raw=true" group-title="PRO",Batul The great
-https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
-#EXTINF:-1 tvg-name="Gopal Bhar" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" group-title="PRO",Gopal Bhar
-https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Motu%20Patlu.jpg?raw=true" group-title="PRO",Motu Patlu
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
-#EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dorimon.jpg?raw=true" group-title="PRO",Doraemon
-https://tplay.live/playlist/kids/doraemon/index.m3u8
-#EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="PRO",Tom & Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="PRO",CARTOON NETWORK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="PRO",Nick 
