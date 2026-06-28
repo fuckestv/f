@@ -16,10 +16,18 @@
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="PRO",BTV
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Indian Bangla",Star Jalsha HD
+#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8PwkV3_HSXlG7wgILF5Hbk/ts
-#EXTINF:-1 tvg-name="Zee Bangla 2" tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Indian-Bangla",Zee Bangla 2
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/435
+#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
+#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="Indian Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="Indian Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e7f3e27e90d39b668bb9d1654174c788.png" group-title="Indian Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/India_film_clapperboard_%28variant%29.svg/250px-India_film_clapperboard_%28variant%29.svg.png" group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/India_film_clapperboard_%28variant%29.svg/250px-India_film_clapperboard_%28variant%29.svg.png" group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/India_film_clapperboard_%28variant%29.svg/250px-India_film_clapperboard_%28variant%29.svg.png" group-title="Others",Bollywood TV
@@ -109,7 +117,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="141" group-title="PRO" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg" group-title="PRO",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="PRO",DBC News
@@ -118,15 +125,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png" group-title="PRO", Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
-#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
-#EXTINF:-1 group-title="PRO",ZEE SONAR
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
-
 
 ─────── Music───────────
 
@@ -163,9 +161,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co.com/5xSF5mzh/Gopal-Bhar-animated-TV-series-title-card.jpg", Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-name="ASH TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV.jpg" group-title="Bangladesh",ASH TV
