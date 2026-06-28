@@ -282,35 +282,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8?hdnts=st%3D1776423912~exp%3D1776445512~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F60d22520-d44d-48a5-b1f1-75d2742ad209%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_303_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_303_-1~hmac%3Dd416bae0a8c82de64c100fd530b200da056215f9b68cf0dd7781009b9368cb45
 
-#EXTINF:-1 tvg-id="306" tvg-chno="" tvg-name="tv-100" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv-100.png" group-title="News", TV 100
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/tv100/playlist.m3u8?hdnts=st%3D1776423912~exp%3D1776445512~acl%3D%21%2A%2F230226%2Ftv100%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_306_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_306_-1~hmac%3Dbc62ea0376872cd0d972056cb17dd35dda88859df79f0986b7f9e350b21bd489
-
-#EXTINF:-1 tvg-id="307" tvg-chno="" tvg-name="live-times" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png" group-title="News", LIVE Times
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/livetimes/playlist.m3u8?hdnts=st%3D1776423912~exp%3D1776445512~acl%3D%21%2A%2F230226%2Flivetimes%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_307_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_307_-1~hmac%3D8248d31e67c7adbba812238239aeb635eae2d9aa5a54a6bfd05016fcfe0a6e82
-
-#EXTINF:-1 tvg-id="308" tvg-chno="" tvg-name="khabar-fast" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wultnc.png" group-title="News", Khabar Fast
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st%3D1776423913~exp%3D1776445513~acl%3D%21%2A%2F230226%2Fkhabarfast%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_308_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_308_-1~hmac%3D28ca97dd58aa5e9a5341e263ae0eb10747466d3d4e44ebfc4c4498ef4dd384bd
-
-#EXTINF:-1 tvg-id="309" tvg-chno="" tvg-name="aryan-tv-national" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aryan-tv-national.png" group-title="News", Aryan TV National
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/aryantvnational/playlist.m3u8?hdnts=st%3D1776423913~exp%3D1776445513~acl%3D%21%2A%2F230226%2Faryantvnational%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_309_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_309_-1~hmac%3D7a1cf4975a787a54a0b6e5d40b4289b43494c211402f758eeda9e966712bbeaf
-
-#EXTINF:-1 tvg-id="310" tvg-chno="" tvg-name="naxatra-news-hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/naxatra-news-hindi.png" group-title="News", Naxatra News Hindi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st%3D1776423914~exp%3D1776445514~acl%3D%21%2A%2F230226%2Fnaxatranewshindi%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_310_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_310_-1~hmac%3D4c68d465eb053a23f110aeb1c75fd7251071f4cf9050cbd12e5427f23e8830a4
 
 #EXTINF:-1 tvg-id="340" tvg-chno="" tvg-name="bharat-express" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-express.png" group-title="News", Bharat Express
 #KODIPROP:inputstream=inputstream.adaptive
