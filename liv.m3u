@@ -11,7 +11,11 @@
 
 
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",ELTA
+https://www.rtmpcdn.com/live/elta.m3u8
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",CCTV 5
+https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1,বায়োস্কোপ
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
