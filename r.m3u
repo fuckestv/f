@@ -1,29 +1,26 @@
 #EXTM3U
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
-
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
-
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Commercial 92.0
-
 http://as32.digitalsynapsebd.com:8456/;stream.mp3
-
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Barishal 105.2
-
 http://as25.digitalsynapsebd.com:8620/;stream.mp3
-
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKf9HDdjEDt0uASni5UF8srpYORvJIyXZi7eReQlnTNU8W29ZLmxZpavp&s=10",Radio Today 89.6
-
-http://stream.zenolive.com/s0858pxyk8quv
-
 http://node-24.zeno.fm/0zha3rfq02quv
-
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://play-lh.googleusercontent.com/6VVysnffLbyVQzuuKcGlBoiq7jeAazeekaY92hIJOX87B69k6bxHooiWgHHP2UvBZHw",Dhaka FM 90.4
 
-http://118.179.219.244:8000/
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
-
 https://stream.spicefmbd.com/stream.m3u8 
 
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://ronnichowdhury.com/wp-content/uploads/2016/12/7-RadioDhoni.jpg",Radio Dhoni 91.2
