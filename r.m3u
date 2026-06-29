@@ -6,6 +6,9 @@
 
 
 
+#EXTINF:-1,group-title="RADIO",Al Quran Radio
+http://66.45.232.131:9994/stream.mp3
+
 
 
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1563160362.jpg" group-title="QURAN Radio", stream - 96 kbit/s
@@ -111,86 +114,18 @@ https://stream.zeno.fm/pcmmlmkpvmmvv
 
 #EXTINF:-1,group-title="RADIO",Radio Foorti
 https://node-11.zeno.fm/f0bfdk2w34zuv
-
-#EXTINF:-1, group-title="RADIO",Radio Today (89.6)
-http://node-24.zeno.fm/0zha3rfq02quv
-
-#EXTINF:-1,group-title="RADIO",Radio Mirchi (98.3)
-http://peridot.streamguys.com:7150/Mirchi
-
 #EXTINF:-1,group-title="RADIO",Radio Wow
 https://stream-41.zeno.fm/d22wrdbst5quv
-
-#EXTINF:-1,group-title="RADIO",ABC Radio (89.2)
-http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
-
-#EXTINF:-1, group-title="RADIO",Saudi Quran
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1, group-title="RADIO",Jago FM (94.4)
-http://128.199.184.111:12496/stream
-
-#EXTINF:-1, group-title="RADIO",Bangladesh Betar (88.8)
-http://as3.digitalysnapsed.com:8263/stream.mp3
-
-#EXTINF:-1,group-title="RADIO",Al Quran Radio
-http://66.45.232.131:9994/stream.mp3
-
-#EXTINF:-1, group-title="RADIO",Big FM (92.7)
-http://sc-bb.1.fm:8017/?listen
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png", Radio Bangla Net
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png", BBC Bangla
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png", Radio GoonGoon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://spicefmbd.com/logospice.png", Spice FM
-https://stream.spicefmbd.com/stream.m3u8
-
-
-EXTINF:-1, tvg-id="ce5789db-3110-4d90-a4fc-a8cc7c32a6a6" tvg-logo="https://s3.aynaott.com/storage/d51be74cd5c23e19cb7e8c81029c2af9" group-title="RADIO",Spice FM
-https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1, tvg-id="c8a198a5-cf2b-47db-9dea-819600c80e0c" tvg-logo="https://s3.aynaott.com/storage/13e3353730d4ec9243de82bf735ee2c5" group-title="RADIO",Radio Bhumi 92.80 FM
-https://apollo.ihostman.com/8002/stream
-#EXTINF:-1, tvg-id="c0eb976e-c0ef-42e5-abf5-af9e0e619ef4" tvg-logo="https://s3.aynaott.com/storage/08881e3043acc1d8671a055f1c8b2a91" group-title="RADIO",Peoples Radio
-http://s3.myradiostream.com:14498/;stream.mp3
-#EXTINF:-1, tvg-id="95d7aeeb-37ce-49fb-b819-930b1a9636db" tvg-logo="https://s3.aynaott.com/storage/af1ee0428972bbd41653a75ebe891f92" group-title="RADIO",Radio Bangladesh CO
-http://radiobangladesh.co.uk:8000/live
-#EXTINF:-1, tvg-id="08264a87-e3f4-4310-bf6c-f9d450595884" tvg-logo="https://s3.aynaott.com/storage/2127a03bd8ebe021b6bff9bdcdfb1973" group-title="RADIO",Relaks Radio
-http://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1, tvg-id="89c6366b-4a2a-46ad-ad8b-feb324a64ea3" tvg-logo="https://s3.aynaott.com/storage/155b665c91fc74cf01b2b43d4b8c3e09" group-title="RADIO",Bangla Radio
-https://apollo.ihostman.com:8002/stream?icy=https
 #EXTINF:-1, tvg-id="47c1f346-8f50-467d-b4ba-8c6084950aa9" tvg-logo="https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19" group-title="RADIO",Saudia Radio
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-
-#EXTINF:-1,group-title="RADIO",Radio Today (89.6)
-http://node-24.zeno.fm/0zha3rfq02quv
-#EXTINF:-1,Radio Mirchi (98.3)
-http://peridot.streamguys.com:7150/Mirchi
-#EXTINF:-1,Radio Wow
-https://stream-41.zeno.fm/d22wrdbst5quv
-#EXTINF:-1,ABC Radio (89.2)
-http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 #EXTINF:-1,Saudi Quran
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1,Radio Today (89.6)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1,Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF:-1,Bangladesh Betar (88.8)
-http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF:-1,Al Quran Radio
-http://66.45.232.131:9994/;stream.mp3
-#EXTINF:-1,Radio Mirchi (98.3)
-http://peridot.streamguys.com:7150/Mirchi
-#EXTINF:-1,Big FM (92.7)
-http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF:-1 tvg-name="Radio BBC" group-title="RADIO",Radio BBC
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/XqWB42xx/Betar-Torongo.jpg",Betar Torongo
-https://stream-151.zeno.fm/v7tnp975wqzuv
+
 
 
 
