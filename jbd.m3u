@@ -135,44 +135,29 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EnterTen%20Bangla%202.jpg?raw=true" group-title="All-In-One~ENT🧩",Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="" tvg-name="BANGLADESH" group-title="All-In-One~ENT🧩",TEN PRIME
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="" tvg-name=" " group-title="All-In-One~ENT🧩", CHANNEL 52
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" tvg-name="Dubbed movies" group-title="All-In-One~ENT🧩",Dubbed movies
 #https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" tvg-name="Gopal Bhar" group-title="All-In-One~ENT🧩",Gopal Bhar
 #https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="" tvg-name=" " group-title="All-In-One~ENT🧩", VISION 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TBN24.jpg?raw=true" tvg-name="TBN24" group-title="All-In-One~ENT🧩",TBN24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" tvg-name="Gubbare" group-title="All-In-One~ENT🧩",Gubbare
 #https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title=" ",ATN BANGLA UK
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="" group-title=" ", TORONI 24
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/toronitv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PROBASHI TV
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="Bd",Drama 24
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="SKY LIFE BD",Drama 24
-https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
