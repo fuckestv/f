@@ -63,8 +63,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Bengali",Zee Bangla Sonar
@@ -72,16 +70,12 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 http://103.159.180.34:5001/live/3476.m3u8
 #EXTINF:-1, RAJDHANI TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-
-
-
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bijoy%20TV.png" group-title="Jagobd ",Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Jagobd ",Ekhon Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Jagobd ",Ekhon Tv
 https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
-
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Jagobd",G TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Channels",NEXUS TV
@@ -91,7 +85,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1, NEWS 21 TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-
 #EXTINF:-1,DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10" group-title="Bangla" tvg-server="Server 1",NRB HD
