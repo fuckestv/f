@@ -891,7 +891,6 @@ http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 
 
-
 #EXTINF:0 tvg-id="ext" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indian Bangla",DD Bangla
