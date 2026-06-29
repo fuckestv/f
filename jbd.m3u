@@ -149,10 +149,6 @@ https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w5722
 
 
 
-
-#EXTINF:-1, CB 24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
-WRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GALAXY TV BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, tvg-logo=" ", SNB CINEMA
@@ -242,12 +238,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mnews24.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&s",Makkah TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nbtpgwhqVc7-lIYDdjq-wD5iyUH3ndQEuQ&s",JonmoBhumi TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DATA" tvg-logo="https://pngtom.com/files/preview/960x960/31703685061wfk8m4lztpcrsk9mfsb7kagidbgqfwcuqejvdt6aok1uze1pmojogjkkb0fnaq9yrjzythbfifzzcyrbakzpn5ogul8iqhg4blrj.png",Jamuna TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",Jagoroni TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagoronitv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DATA" tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg",JagoNews24 TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png",BiswaBangla 24
@@ -260,21 +250,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtndoc.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg",Colosal TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/colosal.stream/tracks-v1a1/mono.m3u8
-
-
-
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-
 #EXTINF:-0 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 
 
 
-
-#EXTINF:-0 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
-https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/CB24.png?raw=true",CB24
