@@ -62,47 +62,28 @@ https://stream.zeno.fm/be5bqmk1k18uv
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/Jh1PpqbV/Radio-Kolkata.jpg",Radio Kolkata
 https://stream.zeno.fm/zrn6z8txpuhvv
 
+
+
+
+
+
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/NMQq7m01/Radio-Malda.jpg",Radio Malda
 https://stream.zeno.fm/xx0u1tpf6ehvv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/cCd7X4qG/Radio-Purbakantho.jpg",Radio Purbakantho
 https://stream.zeno.fm/6nuqpxcw81zuv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/tJM4M21z/Radio-Sondhi.jpg",Radio Sondhi
 https://stream.zeno.fm/e35pzesopreuv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/L8jX6kYN/Rajshahi-FM.jpg",Rajshahi FM
 https://stream.zeno.fm/nxfshdayjrdvv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/L8jX6kYN/Rajshahi-FM.jpg",Spice FM
 https://stream.spicefmbd.com/stream.m3u8
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/4Nfkhz0s/Uttorbango-Betar.jpg",Uttorbango Betar
 https://stream.zeno.fm/vdrtn8ffgrruv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://spicefmbd.com/logospice.png",Spice FM 96.4
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s",Radio Padma 99.2
-http://cassini.shoutca.st:9109/radiopadma.mp3
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://media.licdn.com/dms/image/C510BAQFg5ki4t_4LHg/company-logo_200_200/0/1630595646263?e=2147483647&v=beta&t=uFtad4qTVI78Gtin7RvaY9BptIGaFPTqFl7ksRM3Zwk",BU Radio
-https://stream-176.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4M3diNGhldmo1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhNNldSM19IVDVHQkdiT0N4WnlITkEiLCJpYXQiOjE3MjY2NDU2NjMsImV4cCI6MTcyNjY0NTcyM30.gPXkMieQAgfNoINGpyPFyZDFZFGN3L3T49BbtKhr0Hs
 
-#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/dhaka.png" group-title="RADIO",Dhaka FM
-http://118.179.219.244:8000/;
-#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png" group-title="RADIO",Radio Bangla Net
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
-#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png" group-title="RADIO",BBC Bangla
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png" group-title="RADIO",Radio GoonGoon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s" group-title="RADIO",Bangladesh Betar
 https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
-#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="RADIO",Spice FM
-https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="RADIO",Radio Amar
-https://amorfm_192.streampartner.nl/stream
-#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="RADIO",Big FM
-https://stream-155.zeno.fm/dbstwo3dvhhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnN0d28zZHZoaHR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ildyc0FrY1pjVG9TRWNtb0VWaVVSeVEiLCJpYXQiOjE3NjA1MzAxMDYsImV4cCI6MTc2MDUzMDE2Nn0.J8jfwwhlPxuUeiDtSglHlvNTltpWVhuNxK2cHPy_4to
 #EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="RADIO",Radio Mirchi
 https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
 #EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="RADIO",Radio City
