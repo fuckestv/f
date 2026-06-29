@@ -12,7 +12,8 @@ https://stream.zeno.fm/rzkykmse9zcuv
 http://66.45.232.131:9994/stream.mp3
 #EXTINF:-1,Ababil FM Radio
 https://stream.zeno.fm/gct4039dh6quv
-
+#EXTINF:-1,Quran Radio With Bangla Translation
+https://stream.zeno.fm/1z49becwn18uv
 
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1563160362.jpg" group-title="QURAN Radio", stream - 96 kbit/s
 http://192.99.170.8:5550/stream/1/
@@ -374,16 +375,8 @@ https://stream.zeno.fm/eat4pata6nhvv
 https://stream.zeno.fm/2208uz7s4f0uv
 #EXTINF:-1,Peoples Radio Limited
 https://stream.zeno.fm/ocgdtpw53p2uv
-#EXTINF:-1,Quran Radio With Bangla Translation
-https://stream.zeno.fm/1z49becwn18uv
-#EXTINF:-1,Radio JKKNIU
-https://stream.zeno.fm/risgdzpf1cxtv
-#EXTINF:-1,DEARS Radio
-https://stream.zeno.fm/eh4q1uvz49duv
-#EXTINF:-1,Tzgospel Bangladesh
-https://stream.zeno.fm/x2dam9kvcfhvv
-#EXTINF:-1,Dainik An Noor
-https://stream.zeno.fm/mxak4tf8fc9uv
+
+
 #EXTINF:-1,SakibFM
 https://stream.zeno.fm/sg1hy1wdlcavv
 #EXTINF:-1,Bindaz FM
