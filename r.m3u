@@ -96,20 +96,6 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NSzeePe.png" group-title="RADIO", Redio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oWpQCYD.png" group-title="RADIO", Redio Ekattor
-http://192.144.82.200:9302/;stream/1;
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sUtIV0g.png" group-title="RADIO", Redio Sarabela
-http://103.4.145.50:8000/stream/1/
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gi3zr40.png" group-title="RADIO", Redio Padma
-http://cassini.shoutca.st:9109/radiopadma.mp3
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="RADIO", Sayaji FM
-https://sayajifm.radioca.st/stream/;?1707488287650
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Ca6gh7i.png" group-title="RADIO", Radio BongOnet
-https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d09PXR5.jpg" group-title="RADIO", Radio Retro Bollywood
-https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="RADIO", Radio Bolly FM
-https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 #EXTINF:-1 tvg-id="c0eb976e-c0ef-42e5-abf5-af9e0e619ef4" tvg-name="Peoples Radio" tvg-logo="https://s3.aynaott.com/storage/08881e3043acc1d8671a055f1c8b2a91" group-title="RADIO",Peoples Radio
 http://s3.myradiostream.com:14498/;stream.mp3
 #EXTINF:-1 tvg-id="95d7aeeb-37ce-49fb-b819-930b1a9636db" tvg-name="Radio Bangladesh CO" tvg-logo="https://s3.aynaott.com/storage/af1ee0428972bbd41653a75ebe891f92" group-title="RADIO",Radio Bangladesh CO
