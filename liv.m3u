@@ -10,13 +10,8 @@
 
 
 
-#EXTINF:-1,footballl
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
-
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="world cup",T Sports
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="world cup",T Sports
-http://114.130.57.233:8080/T-sports-64/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="world cup",T Sports
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="JagoBD",Shomoy TV
