@@ -10,7 +10,8 @@
 https://stream.zeno.fm/rzkykmse9zcuv
 #EXTINF:-1,group-title="RADIO",Al Quran Radio
 http://66.45.232.131:9994/stream.mp3
-
+#EXTINF:-1,Ababil FM Radio
+https://stream.zeno.fm/gct4039dh6quv
 
 
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1563160362.jpg" group-title="QURAN Radio", stream - 96 kbit/s
@@ -413,8 +414,6 @@ https://stream.zeno.fm/se2bsrykxrhvv
 https://stream.zeno.fm/ep5g6qw543duv
 #EXTINF:-1,Lokobetar fm 99.2
 https://stream.zeno.fm/q4kfslhiwaktv
-#EXTINF:-1,Ababil FM Radio
-https://stream.zeno.fm/gct4039dh6quv
-#EXTINF:-1,Eid Song
-https://stream.zeno.fm/agadc8zpkrhvv
+
+
 
