@@ -81,7 +81,6 @@ https://stream.spicefmbd.com/stream.m3u8
 https://stream.zeno.fm/vdrtn8ffgrruv
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://spicefmbd.com/logospice.png",Spice FM 96.4
 https://stream.spicefmbd.com/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s" group-title="RADIO",Bangladesh Betar
 https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 #EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="RADIO",Radio Mirchi
@@ -98,18 +97,6 @@ http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 #EXTINF:-1 tvg-id="c0eb976e-c0ef-42e5-abf5-af9e0e619ef4" tvg-name="Peoples Radio" tvg-logo="https://s3.aynaott.com/storage/08881e3043acc1d8671a055f1c8b2a91" group-title="RADIO",Peoples Radio
 http://s3.myradiostream.com:14498/;stream.mp3
-#EXTINF:-1 tvg-id="95d7aeeb-37ce-49fb-b819-930b1a9636db" tvg-name="Radio Bangladesh CO" tvg-logo="https://s3.aynaott.com/storage/af1ee0428972bbd41653a75ebe891f92" group-title="RADIO",Radio Bangladesh CO
-http://radiobangladesh.co.uk:8000/live
-#EXTINF:-1 tvg-id="08264a87-e3f4-4310-bf6c-f9d450595884" tvg-name="Relaks Radio" tvg-logo="https://s3.aynaott.com/storage/2127a03bd8ebe021b6bff9bdcdfb1973" group-title="RADIO",Relaks Radio
-http://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-id="89c6366b-4a2a-46ad-ad8b-feb324a64ea3" tvg-name="Bangla Radio" tvg-logo="https://s3.aynaott.com/storage/155b665c91fc74cf01b2b43d4b8c3e09" group-title="RADIO",Bangla Radio
-https://apollo.ihostman.com:8002/stream?icy=https
-#EXTINF:-1 tvg-name="FM Radio" group-title="RADIO",SPICE FM
-https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-name="Radio BBC" group-title="RADIO",Radio BBC
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
-#EXTINF:-1 tvg-name="Quran" group-title="RADIO",Quran
-https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 #EXTINF:-1,group-title="RADIO",জমুনা
 https://stream.zeno.fm/pcmmlmkpvmmvv
 
@@ -119,9 +106,9 @@ https://stream.zeno.fm/pcmmlmkpvmmvv
 
 
 
-#EXTM3U
 
-############ RADIO ############
+
+
 #EXTINF:-1,group-title="RADIO",Radio Foorti
 https://node-11.zeno.fm/f0bfdk2w34zuv
 
