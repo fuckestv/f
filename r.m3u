@@ -43,57 +43,23 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="FM-Radio",Radio Mirchi
 https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444u
-#EXTINF:-1 tvg-name="Radio BBC" group-title="RADIO",Radio BBC
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/XqWB42xx/Betar-Torongo.jpg",Betar Torongo
 https://stream-151.zeno.fm/v7tnp975wqzuv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/XqWB42xx/Betar-Torongo.jpg",Big FM
 https://stream-156.zeno.fm/dbstwo3dvhhtv
-
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/xCNxmdvf/Learn-English.jpg",Learn English
 https://stream.zeno.fm/fd2gpd28ma0uv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/FRwbXgJL/My-90s-Bengali.jpg",My 90s Bengali
 https://stream.zeno.fm/9bze9t1pvs8uv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/jSkL1qfL/Namaste-Bollywood.jpg",Namaste Bollywood
 https://stream.zeno.fm/cqak4ap7by8uv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/zv0gXCyv/Nazrul-Geeti.jpg",Nazrul Geeti
 https://stream.zeno.fm/7kwayxtph48uv
-
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/TYbxxRBw/Provat-FM.jpg",Provat FM
-https://stream.zeno.fm/nlv7ffoe39yvv
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/3wd30gWq/Radio-BBC.jpg",Radio BBC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/3wgDV5FC/Radio-Bhumi.jpg",Radio Bhumi
 https://stream.zeno.fm/be5bqmk1k18uv
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/59ZQ42K5/Radio-Foorti.jpg",Radio Foorti
-
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/50sW-2ymN/Radio-Goongoon.jpg",Radio Goongoon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/854w8rms/Radio-Karotoa.jpg",Radio Karatoa
 https://stream.zeno.fm/u7p10xhsutzuv
