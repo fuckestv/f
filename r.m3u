@@ -8,7 +8,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1563160362.jpg" group-title="QURAN Radio", stream - 96 kbit/s
+http://192.99.170.8:5550/stream/1/
 
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
