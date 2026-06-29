@@ -130,10 +130,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name=" " group-title="All-In-One~ENT🧩", CHANNEL 52
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" tvg-name="Dubbed movies" group-title="All-In-One~ENT🧩",Dubbed movies
-#https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" tvg-name="Gopal Bhar" group-title="All-In-One~ENT🧩",Gopal Bhar
-#https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name=" " group-title="All-In-One~ENT🧩", VISION 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TBN24.jpg?raw=true" tvg-name="TBN24" group-title="All-In-One~ENT🧩",TBN24
@@ -148,12 +144,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="Bd",Drama 24
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/cbn-tv.png",CBN TV USA
-https://live.cbntvusa.net/hls/cbntv/index.m3u8
+
 
 
 
@@ -163,23 +156,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 WRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GALAXY TV BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
-
-
-
 #EXTINF:-1, tvg-logo=" ", SNB CINEMA
 http://103.182.83.246/hls/snbcinema.m3u8
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 http://103.175.73.12:8080/live/197/197_0.m3u8
-
-
 #EXTINF:-1 tvg-id="AamarBangla.in@SD",Aamar Bangla (720p)
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-
 #EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x71442" group-title="2. JAGOBD" ,Amar Bangla Digital
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
-
-
 
 #EXTINF:-1,UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
@@ -210,7 +194,6 @@ http://103.175.73.12:8080/live/198/198_0.m3u8
 #EXTINF:-1,  tvg-logo="", SANANDA TV(jago bd)
 #http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1, tvg-logo="", SANANDA TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
