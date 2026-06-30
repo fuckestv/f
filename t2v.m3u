@@ -8,8 +8,8 @@
 
 
 
-
-
+#EXTINF:-1 group-title="PRO" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla
+http://103.180.212.191:3500/live/1369.m3u8
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Bangla.png" group-title="Bangla",Zee Bangla
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
