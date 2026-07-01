@@ -29,8 +29,10 @@ https://play.666666.zip/live/4459724.m3u8
 https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYcv9PxHpny6/playlist.m3u8
 #EXTINF:-1,চয়না
 https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcv9PxHpny6/playlist.m3u8
+#EXTINF:-1,বায়না
+http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9QifSzE.png",beIN SPORTS MAX⁴ᵏ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QifSzE.png",beIN SPORTS
 http://starhub.pro/live/farhat-3379/67897-913379/747283.ts
 
 
