@@ -19,11 +19,15 @@ http://66.45.232.131:9994/stream.mp3
 https://stream.zeno.fm/gct4039dh6quv
 #EXTINF:-1,Quran Radio With Bangla Translation
 https://stream.zeno.fm/1z49becwn18uv
-
 #EXTINF:-1,Ruqyah Radio - Ruqyah Support BD
 https://stream.zeno.fm/pz72fq579f0uv
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1563160362.jpg" group-title="QURAN Radio", stream - 96 kbit/s
 http://192.99.170.8:5550/stream/1/
+
+
+
+
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Commercial 92.0
@@ -133,7 +137,6 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1,Radio Today (89.6)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-gaan-baksho-bangla-hd-radio-logo.jpg",Gaan Baksho - Bangla HD Radio
 https://cast1.asurahosting.com/proxy/gaanbaks/stream?
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-today-577303-logo.jpg",Radio Today
@@ -304,8 +307,6 @@ http://119.148.23.88:1021/
 http://radiopadmabd.radioca.st:9109/radiopadma
 #EXTINF:-1,CJRJ 1200 "Spice Radio" Vancouver, BC
 http://134.209.0.236:8000/CJRJ
-
-EXTM3U
 #EXTINF:-1,Radio Shadhin 92-4 FM
 https://stream.zeno.fm/umq9q5uuva5tv
 #EXTINF:-1,Capital FM Bangladesh
