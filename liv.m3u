@@ -22,13 +22,21 @@ http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68
 
 
 
-#EXTINF:-1,চায়নিজ
+
+
+#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Football match
 https://play.666666.zip/live/4459724.m3u8
-#EXTINF:-1,চায়না
+
+
+
+#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Football match
 https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYcv9PxHpny6/playlist.m3u8
-#EXTINF:-1,চয়না
+
+#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Football match
 https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcv9PxHpny6/playlist.m3u8
+
 #EXTINF:-1,বায়না
+EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Football match
 http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9QifSzE.png",beIN SPORTS
