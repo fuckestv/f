@@ -456,41 +456,27 @@ http://134.209.0.236:8000/CJRJ
 https://stream.zeno.fm/umq9q5uuva5tv
 #EXTINF:-1,Capital FM Bangladesh
 https://stream.zeno.fm/4nzaapqw34zuv
-#EXTINF:-1,Radio Today FM 89-6
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Radio Today FM 89-6
 https://stream.zeno.fm/uybk43g4344tv
-#EXTINF:-1,Radio Bhumi 92.80 FM
-https://stream.zeno.fm/be5bqmk1k18uv
-#EXTINF:-1,Uttorbango Betar
-https://stream.zeno.fm/vdrtn8ffgrruv
-#EXTINF:-1,dhakaFM
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Dhakafm_90.4.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Dhaka FM
 https://stream.zeno.fm/u9mphfk604zuv
-#EXTINF:-1,BU RADiO
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo=" ",BU RADiO
 https://stream.zeno.fm/x3wb4hevj5atv
-#EXTINF:-1,Radio Vivid Voice
-https://stream.zeno.fm/xuin6ocdc2juv
-#EXTINF:-1,Radio Theater Bangla
-https://stream.zeno.fm/hrawdb5yx8ovv
-#EXTINF:-1,Radio Bushra
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo=" ",Radio Bushra
 https://stream.zeno.fm/ry0z40fdxzzuv
-#EXTINF:-1,Radio Foorti
-https://stream.zeno.fm/cwa3vg8s8druv
-#EXTINF:-1,Rajshahi FM
-https://stream.zeno.fm/nxfshdayjrdvv
-#EXTINF:-1,Radio Sondhi
-https://stream.zeno.fm/e35pzesopreuv
-#EXTINF:-1,Farm Radio
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo=" ",Farm Radio
 https://stream.zeno.fm/tage75htbwzuv
-#EXTINF:-1,Peoples Radio Limited
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://images.zeno.fm/eURlG-7nNYh9UehtSBiewE0IVbyEAWxzgdLHA6DIkUQ/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTdiMjM1OGUtYzBkNC00OGE2LWJhMGItNjBiMjE4ZTQ1ZmI1L2ltYWdlLz91PTE2OTE2NzE1ODEwMDA",Peoples Radio Limited
 https://stream.zeno.fm/ocgdtpw53p2uv
-#EXTINF:-1,SakibFM
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="",SakibFM
 https://stream.zeno.fm/sg1hy1wdlcavv
-#EXTINF:-1,Bindaz FM
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://images.zeno.fm/kb5rM9P0ShG_W3g8EiAzWrLgijvfp3eaQ69p-pDue7Q/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1ExWl82MEFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F4YktWNUFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTcwMzc3NDAwMA",Bindaz FM
 https://stream.zeno.fm/8vt7u5pay4zuv
 #EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://images.zeno.fm/SOERmwPSzNXPONdaDD4ster7BAF2si3nbHDmz7bV7_g/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHcwTG1iamdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3UEhuaVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTk2NTQ0OTAwMA",Dawateislami Audiobook Bangla
 https://stream.zeno.fm/pwmqnkyvt98uv
 #EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://images.zeno.fm/2NK_I0mCdKXgVg_LDZ-K6X2OGR6_7F0md1vyooxzon4/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FzTHJqbWdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1E0SlNLdEFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTczMjU4ODAwMA",SA Islamic Radio
 https://stream.zeno.fm/hr0wb3ax8vzuv
-#EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://www.bcrabd.org/?p=24&utm_source=chatgpt.com",Radio Mukti 99.2FM
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://www.bcrabd.org/cloud/archives/2019/04/radio-mukti.jpg",Radio Mukti 99.2FM
 https://stream.zeno.fm/89vwaa67oqbuv
 #EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Peaceradio-logo-v3_Logo_and_text.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Peace Radio
 https://stream.zeno.fm/whnht0bb3c9uv
@@ -500,6 +486,22 @@ https://stream.zeno.fm/se2bsrykxrhvv
 https://stream.zeno.fm/ep5g6qw543duv
 #EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://zeno.fm/radio/lokobetar-fm-99-2/?utm_source=chatgpt.com",Lokobetar fm 99.2
 https://stream.zeno.fm/q4kfslhiwaktv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
