@@ -93,8 +93,6 @@ http://stream.zenolive.com/s0858pxyk8quv
 http://118.179.219.244:8000/
 #EXTINF:-1 tvg-id="" tvg-logo="https://ronnichowdhury.com/wp-content/uploads/2016/12/7-RadioDhoni.jpg" group-title="BD🔸FM",Radio Dhoni 91.2
 https://stream-171.zeno.fm/2yihdjutno9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeWloZGp1dG5vOXR2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlMX0dnSGhJUmNTS1p4ZVNpUEliWlEiLCJpYXQiOjE3MjY2NDU0MDUsImV4cCI6MTcyNjY0NTQ2NX0.7udhdNdVsF8f6NhwVZzBwYyBtkOVrvuJkR1HQ3ngjfE
-#EXTINF:-1 tvg-id="" tvg-logo="https://peoplesradio.fm/wp-content/uploads/2015/12/pr_logo.png" group-title="FM Radio 📻",Peoples Radio 91.6
-http://s3.myradiostream.com:14498/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bc/%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8.png" group-title="BD🔸FM",Radio Shadhin 92.4
 https://stream.zenolive.com/umq9q5uuva5tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Radio_Bhumi_logo.png" group-title="BD🔸FM",Radio Bhumi 92.8
@@ -224,28 +222,18 @@ https://stream.spicefmbd.com/stream.m3u8
 https://stream.zeno.fm/vdrtn8ffgrruv
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://spicefmbd.com/logospice.png",Spice FM 96.4
 https://stream.spicefmbd.com/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="RADIO",Radio Mirchi
-https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
-#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="RADIO",Radio City
-https://n0b.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmefVT0cAEC8yJftxyPNsng
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="RADIO", Quran
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="BD🔸FM",Quran
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="RADIO", Bangladesh Betar
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="BD🔸FM",Bangladesh Betar
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF: -1 tvg-logo="https://i.imgur.com/16uHVGr.png" group-title="RADIO", Redio Shadin
+#EXTINF: -1 tvg-logo="https://i.imgur.com/16uHVGr.png" group-title="BD🔸FM",Redio Shadin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NSzeePe.png" group-title="RADIO", Redio Today
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NSzeePe.png" group-title="BD🔸FM",Redio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
-#EXTINF:-1 tvg-id="c0eb976e-c0ef-42e5-abf5-af9e0e619ef4" tvg-name="Peoples Radio" tvg-logo="https://s3.aynaott.com/storage/08881e3043acc1d8671a055f1c8b2a91" group-title="RADIO",Peoples Radio
+#EXTINF:-1 tvg-id="c0eb976e-c0ef-42e5-abf5-af9e0e619ef4" tvg-name="Peoples Radio" tvg-logo="https://s3.aynaott.com/storage/08881e3043acc1d8671a055f1c8b2a91" group-title="BD🔸FM",Peoples Radio
 http://s3.myradiostream.com:14498/;stream.mp3
 #EXTINF:-1,group-title="RADIO",জমুনা
 https://stream.zeno.fm/pcmmlmkpvmmvv
-
-
-
-
-
 
 
 
