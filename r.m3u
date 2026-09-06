@@ -273,25 +273,22 @@ http://119.148.23.88:1021/;stream/1
 http://94.23.23.97:29270/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-fnffm-bangla-logo.jpg",Radio FnF.FM Bangla
 http://eu6.fastcast4u.com:5099/;stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-radio-ullash-logo.jpg",Radio Ullash
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-radio-ullash-logo.jpg",Radio Ullash
 https://stream.zeno.fm/gpgkgp9mp18uv.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-uttorbango-betar-logo.jpg",Radio Uttorbango Betar
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-uttorbango-betar-logo.jpg",Radio Uttorbango Betar
 https://stream.zeno.fm/spqbxkqxdf9uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-radio-purbakantho-logo.jpg",Radio Purbakantho
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-radio-purbakantho-logo.jpg",Radio Purbakantho
 https://stream.zeno.fm/r8sntxcw81zuv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-radio-sondhi-logo.jpg",Radio Sondhi
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-radio-sondhi-logo.jpg",Radio Sondhi
 https://stream.zeno.fm/4k1vwiexedzvv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-radio-vivid-voice-logo.jpg",Radio Vivid Voice
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-radio-vivid-voice-logo.jpg",Radio Vivid Voice
 https://stream.zeno.fm/xuin6ocdc2juv
-
-
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-roots-air-logo.jpg",Radio Roots air
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-roots-air-logo.jpg",Radio Roots air
 http://live64.zeilsteen.com:7054/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-hemel-music-logo.jpg",Radio Hemel Music
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-hemel-music-logo.jpg",Radio Hemel Music
 https://stream.zeno.fm/s4f64yu82c9uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-radio-theater-bangla-logo.jpg",Radio Theater Bangla
+#EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/bd-radio-theater-bangla-logo.jpg",Radio Theater Bangla
 https://stream.zeno.fm/hrawdb5yx8ovv
-
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-radio-jkkniu-logo.jpg",Radio JKKNIU
 https://stream.zeno.fm/risgdzpf1cxtv
 #EXTINF:-1 group-title="BD🔸FM" tvg-logo="https://im1.lixty.com/images/aktara-bangla-internet-radio-186472-logo.jpg",BC
@@ -332,6 +329,10 @@ https://stream.zeno.fm/se2bsrykxrhvv
 https://stream.zeno.fm/ep5g6qw543duv
 #EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://zeno.fm/radio/lokobetar-fm-99-2/?utm_source=chatgpt.com",Lokobetar fm 99.2
 https://stream.zeno.fm/q4kfslhiwaktv
+
+
+
+
 
 
 
