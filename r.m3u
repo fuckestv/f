@@ -435,21 +435,8 @@ http://www.radioswadesh.com:8002/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/aktara-bangla-internet-radio-186472-logo.jpg",AKTARA - Bangla Internet Radio
 http://173.192.48.97:8208/;
 
-
-
-
-#EXTINF:-1,Jago FM 94.4
-http://128.199.184.111:12496/stream
-#EXTINF:-1,AL-QURAN BANGLA
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/%D8%A7%D9%84%D9%82%D8%B1%D8%A1%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",AL-QURAN BANGLA
 http://66.45.232.131:9994/stream/1/
-#EXTINF:-1,Dhaka 88.8 FM
-http://as3.digitalsynapsebd.com:8263/
-#EXTINF:-1,Radio Ambar
-http://118.179.215.45:8000/stream/1
-#EXTINF:-1,Radio Foorti
-http://119.148.23.88:1021/
-#EXTINF:-1,Radio Padma 99.2 FM
-http://radiopadmabd.radioca.st:9109/radiopadma
 #EXTINF:-1,group-title="BD🔸FM" tvg-logo="",BC
 http://134.209.0.236:8000/CJRJ
 #EXTINF:-1,group-title="BD🔸FM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c3/ec/5b/c3ec5b38-8028-6255-faf3-2b510e30ed24/pr_source.png/1200x630wa.png?utm_source=chatgpt.com",Radio Shadhin 92-4 FM
