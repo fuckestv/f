@@ -51,6 +51,8 @@ https://stream.zeno.fm/rzkykmse9zcuv
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Commercial 92.0
 http://as32.digitalsynapsebd.com:8456/;stream.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s" group-title="RADIO",Bangladesh Betar Rajshahi 
+https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Dhaka KA 693 kHz
 http://as11.digitalsynapsebd.com:8582/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Dhaka KHA 819 KHz
@@ -227,8 +229,7 @@ https://stream.spicefmbd.com/stream.m3u8
 https://stream.zeno.fm/vdrtn8ffgrruv
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://spicefmbd.com/logospice.png",Spice FM 96.4
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s" group-title="RADIO",Bangladesh Betar
-https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
+
 #EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="RADIO",Radio Mirchi
 https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
 #EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="RADIO",Radio City
