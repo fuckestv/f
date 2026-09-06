@@ -253,7 +253,7 @@ https://stream.zeno.fm/pcmmlmkpvmmvv
 
 #EXTINF:-1,group-title="RADIO",Radio Foorti
 https://node-11.zeno.fm/f0bfdk2w34zuv
-#EXTINF:-1,group-title="RADIO",Radio Wow
+#EXTINF:-1, tvg-logo="https://www.astorri.it/wp-content/uploads/2021/05/ADJ-1115x715-Logo-Radio-Wow.jpg?utm_source=chatgpt.com" group-title="BD🔸FM",Radio Wow
 https://stream-41.zeno.fm/d22wrdbst5quv
 #EXTINF:-1, tvg-id="47c1f346-8f50-467d-b4ba-8c6084950aa9" tvg-logo="https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19" group-title="RADIO",Saudia Radio
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
