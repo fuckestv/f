@@ -260,9 +260,7 @@ https://stream-41.zeno.fm/d22wrdbst5quv
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qdGPCh/Sharjahtvquran.png" group-title="BD🔸FM",QURAN RADIOTV
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-
-
-#EXTINF:-1,Radio Today (89.6)
+#EXTINF:-1,group-title="BD🔸FM" tv-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Radio Today (89.6)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 group-title="BD🔸FM" tv-logo="https://im1.lixty.com/images/au-gaan-baksho-bangla-hd-radio-logo.jpg",Gaan Baksho - Bangla HD Radio
 https://cast1.asurahosting.com/proxy/gaanbaks/stream?
