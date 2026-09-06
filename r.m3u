@@ -14,73 +14,73 @@
 
 
 
-#EXTINF:-1,শিবির
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/d/d1/Bangladesh_Islami_Chhatra_Shibir_Emblem.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original শিবির
 https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bd-radio-dawah-bangla-logo.jpg",Radio Dawah Bangla
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="   tv-logo="https://im1.lixty.com/images/bd-radio-dawah-bangla-logo.jpg",Radio Dawah Bangla
 https://stream.zeno.fm/rzkykmse9zcuv
-#EXTINF:-1,group-title="RADIO",Al Quran Radio
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="   group-title="RADIO",Al Quran Radio
 http://66.45.232.131:9994/stream.mp3
-#EXTINF:-1,Ababil FM Radio
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="   Ababil FM Radio
 https://stream.zeno.fm/gct4039dh6quv
-#EXTINF:-1,Quran Radio With Bangla Translation
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="  Quran Radio With Bangla Translation
 https://stream.zeno.fm/1z49becwn18uv
-#EXTINF:-1,Ruqyah Radio - Ruqyah Support BD
+#EXTINF:-1, group-title="BD🔸FM" tvg-logo="  Ruqyah Radio - Ruqyah Support BD
 https://stream.zeno.fm/pz72fq579f0uv
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1563160362.jpg" group-title="QURAN Radio", stream - 96 kbit/s
+#EXTINF:-1, group-title="BD🔸FM" tvg-logo="   tvg-logo="http://radio.pervii.com/im/2/1563160362.jpg" group-title="QURAN Radio", stream - 96 kbit/s
 http://192.99.170.8:5550/stream/1/
 
-#EXTINF:-1,Radio Rang
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="    Radio Rang
 https://stream-177.surfernetwork.com/7fvzsb8muotuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZnZ6c2I4bXVvdHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJaNkJaUG1NQVN0aTJvN20tZ1NQRXdBIiwiaWF0IjoxNzg2OTQ5MjE5LCJleHAiOjE3ODY5NDkyNzl9.7Ymwqkw7lE2cSIK1s4aRJ1S442T852jWRyk_fZz7ChE
 
-#EXTINF:-1,Radio JK
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="    Radio JK
 https://stream-177.surfernetwork.com/risgdzpf1cxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyaXNnZHpwZjFjeHR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJXWENJR0FhbVR0MndMalBiQWNNYjVBIiwiaWF0IjoxNzg2OTQ5MzA1LCJleHAiOjE3ODY5NDkzNjV9.JUuJeAM73VLlNsNaCvXzMhP6qXHMVS0SiDYJ_ryJ0p0
-#EXTINF:-1,Radio Tangaik
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="    Radio Tangaik
 https://stream-177.surfernetwork.com/r8sntxcw81zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHNudHhjdzgxenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJZQTloWEZsc1RpU2lVd1NwTjY5VGF3IiwiaWF0IjoxNzg2OTQ5Mzg5LCJleHAiOjE3ODY5NDk0NDl9.fZMSkOyA4k071VQn3Q-_HWZv3CpZdIw7q5cZi3ml7io
 
-#EXTINF:1 tvg-name="Radio Foorti 88.0 FM" tvg-logo="https://i.ibb.co/rfFJbtb4/images.jpg" group-title="FM Radio 📻",Radio Foorti 88.0 FM
+#EXTINF:1, group-title="BD🔸FM" tvg-logo="    tvg-name="Radio Foorti 88.0 FM" tvg-logo="https://i.ibb.co/rfFJbtb4/images.jpg" group-title="FM Radio 📻",Radio Foorti 88.0 FM
 https://stream.zeno.fm/cwa3vg8s8druv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg" group-title="Islam Channels🕋",Quran Redio 📻
+#EXTINF:-1,group-title="BD🔸FM" tvg-logo="    tvg-id="" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg" group-title="Islam Channels🕋",Quran Redio 📻
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9Cks6w4/1bf34bfe928d.jpg" group-title="Islam Channels🕋",FM 📻 রেডিও 1
 https://stream.zeno.fm/ghcsb5a7ma0uv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60tSPVfh/45dffea5f266.jpg" group-title="Islam Channels🕋",FM 📻 রেডিও 2
 https://stream.zeno.fm/rzkykmse9zcuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/60tSPVfh/45dffea5f266.jpg" group-title="Islam Channels🕋",FM 📻 রেডিও 3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Betar 88.8 FM📻
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Betar 88.8 FM
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Commercial 92.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Commercial 92.0
 http://as32.digitalsynapsebd.com:8456/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Dhaka KA 693 kHz
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Dhaka KA 693 kHz
 http://as11.digitalsynapsebd.com:8582/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Dhaka KHA 819 KHz
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Dhaka KHA 819 KHz
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Chattogram 88.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Chattogram 88.8
 http://as15.digitalsynapsebd.com:9236/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Rajshahi 88.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Rajshahi 88.8
 http://as17.digitalsynapsebd.com:9244/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Khulna 88.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Khulna 88.8
 http://as19.digitalsynapsebd.com:9252/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Rangpur 88.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Rangpur 88.8
 http://as35.digitalsynapsebd.com:8360/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Sylhet 88.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Sylhet 88.8
 http://as23.digitalsynapsebd.com:8246/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Barishal 105.2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Barishal 105.2
 http://as25.digitalsynapsebd.com:8620/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Mymensingh 92.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Mymensingh 92.0
 http://as40.digitalsynapsebd.com:8029/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Comilla 101.2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Comilla 101.2
 http://as37.digitalsynapsebd.com:8428/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Thakurgaon 92.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Thakurgaon 92.0
 http://as33.digitalsynapsebd.com:8276/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Gopalgonj 92.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Gopalgonj 92.0
 http://as39.digitalsynapsebd.com:8432/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Cox's Bazar 100.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Cox's Bazar 100.8
 http://as29.digitalsynapsebd.com:8114/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Bandarban 92.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Bandarban 92.0
 http://as27.digitalsynapsebd.com:8326/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="FM Radio 📻",Rangamati 103.2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" group-title="BD🔸FM",Rangamati 103.2
 http://as35.digitalsynapsebd.com:8360/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZg2N4c8lt6Y5-a9Ldd6CDm_9-g1-r146wQ&s" group-title="FM Radio 📻",Radio Baraqah
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZg2N4c8lt6Y5-a9Ldd6CDm_9-g1-r146wQ&s" group-title="BD🔸FM",Radio Baraqah
 https://stream.zeno.fm/gz73d47hq18uv
 #EXTINF:-1 tvg-id="" tvg-logo="https://samakal.com/media/imgAll/uploads/2023/02/online/photos/islami-an-jpg-samakal-63e26162bebed.jpg" group-title="FM Radio 📻",Charmonai Radio
 https://stream-176.zeno.fm/89t7q8pg1k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4OXQ3cThwZzFrMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijk1YlNpWVYzU1R1Y0tVOTNlSVZieFEiLCJpYXQiOjE3MzYwNjE4MDgsImV4cCI6MTczNjA2MTg2OH0.L0KK4VJ8cXPBtBJide9cIXSN_YdnISzczTajBdDiYT8
